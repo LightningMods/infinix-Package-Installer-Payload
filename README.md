@@ -1,6 +1,6 @@
 # Inifnix-Package-Installer-Payload
 
-## Inlcudes
+## Includes
 
 Everything included along with [HEN 2.1](https://github.com/SiSTR0/ps4-hen-vtx)
 
