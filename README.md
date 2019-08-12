@@ -1,4 +1,4 @@
-# Inifnix-Package-Installer-Payload
+# infinix-Package-Installer-Payload
 
 ## Includes
 
