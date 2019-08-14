@@ -14,7 +14,7 @@ First ever Payload Plugin, and to hold all dynamic relocations a.k.a the NIDs i 
 
 0. Change your DNS to AlAzif (165.227.83.145) or your Hoster of choice
 
-1. Download either the Installer Tool for [Windows](https://t.co/Of7jduI4yq) or [Android](https://play.google.com/store/apps/details?id=com.darksoftware.pkginstaller2)
+1. Download either the Installer Tool for [Windows](https://github.com/LightningMods/Store-Remote-Tool) or [Android](https://play.google.com/store/apps/details?id=com.darksoftware.pkginstaller2)
 
 2. Launch the Inifnix payload, Put in your IP in the tool... then click "Install Payload Plugin"
 
